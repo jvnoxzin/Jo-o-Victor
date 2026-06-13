@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12C2E9,50:C471ED,100:F64F59&height=200&section=header&text=Meu%20Perfil&fontSize=50&fontColor=ffffff"/>
 </p>
 
-<h1 align="center" style="font-size:60px;">👋 Olá, eu sou João Victor</h1>
+<h1 align="center" style="font-size:60px;">👋 Olá, eu sou o João Victor!</h1>
 
 <div align="center">
 
