@@ -13,8 +13,7 @@
 </div>
 
 ---
-
-## 🚀 Sobre Mim
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:36D1DC,100:5B86E5&height=120&section=header&text=Sobre%20Mim&fontColor=fff&fontSize=30"/>
 <p align="center">
   <img src="https://img.shields.io/badge/Estudante%20de%20TI-0D1117?style=for-the-badge&logo=github&logoColor=white">
 </p>
