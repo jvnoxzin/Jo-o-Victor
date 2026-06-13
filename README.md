@@ -1,39 +1,75 @@
-# Olá, eu sou João Victor 👋
-Sou estudante de Tecnologia da Informação e tenho interesse em tecnologia e desenvolvimento web.
+# 👋 Olá, eu sou João Victor
 
-## Sobre mim
+<div align="center">
 
-* Estudante de TI
-* Aprendendo HTML, CSS e SQL
-* Interesse em criação de sites e gerenciamento de bancos de dados
-* Buscando desenvolver minhas habilidades por meio de estudos e atividades práticas
+### 🎓 Estudante de Tecnologia da Informação
 
-## Habilidades
+💻 Interessado em Desenvolvimento Web e Banco de Dados
 
-* HTML
-* CSS
-* SQL
-* GitHub
-* Banco de Dados
-* Lógica de Programação
+</div>
 
-## Objetivo Profissional
+---
 
-Meu objetivo é ampliar meus conhecimentos na área de tecnologia, adquirir experiência prática e me preparar para futuras oportunidades acadêmicas e profissionais.
+## 🚀 Sobre Mim
 
-## Atualmente Estudando
+📚 Atualmente estudando Tecnologia da Informação
 
-* Desenvolvimento Web
-* Banco de Dados
-* GitHub
-* Lógica de Programação
+🌐 Aprendendo HTML, CSS e SQL
 
-## Contato
+🎯 Buscando desenvolver habilidades para o mercado de tecnologia
 
-GitHub: github.com/jvnoxzin
+📈 Sempre procurando aprender algo novo
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+---
+
+## 🛠️ Tecnologias
+
+<div align="center">
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+</div>
+
+---
+
+## 📖 Atualmente Estudando
+
+- 🌐 Desenvolvimento Web
+- 🗄️ Banco de Dados
+- 🐙 GitHub
+- 🧠 Lógica de Programação
+
+---
+
+## 🎯 Objetivo
+
+Meu objetivo é ampliar meus conhecimentos na área de tecnologia, desenvolver novas habilidades e me preparar para futuras oportunidades acadêmicas e profissionais.
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jvnoxzin&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvnoxzin&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+## 🌐 Contato
+
+🔗 https://github.com/jvnoxzin
+
+---
+
+<div align="center">
+
+⭐ Obrigado por visitar meu perfil! ⭐
+
+</div>
