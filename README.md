@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=200&section=header&text=João%20Victor&fontSize=50&fontColor=ffffff"/>
+</p>
 # 👋 Olá, eu sou João Victor
 
 <div align="center">
