@@ -12,10 +12,6 @@
 
 </div>
 
----
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=220&section=header&text=João%20Victor&fontSize=50&fontColor=ffffff"/>
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:36D1DC,100:5B86E5&height=80&section=header&text=🚀%20Sobre%20Mim&fontSize=30&fontColor=ffffff"/>
 
