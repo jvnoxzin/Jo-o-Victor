@@ -13,18 +13,63 @@
 </div>
 
 ---
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:36D1DC,100:5B86E5&height=120&section=header&text=Sobre%20Mim&fontColor=fff&fontSize=30"/>
 <p align="center">
-  <img src="https://img.shields.io/badge/Estudante%20de%20TI-0D1117?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=220&section=header&text=João%20Victor&fontSize=50&fontColor=ffffff"/>
 </p>
-📚 Atualmente estudando Tecnologia da Informação
 
-🌐 Aprendendo HTML, CSS e SQL
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:36D1DC,100:5B86E5&height=80&section=header&text=🚀%20Sobre%20Mim&fontSize=30&fontColor=ffffff"/>
 
-🎯 Buscando desenvolver habilidades para o mercado de tecnologia
+🎓 Estudante de Tecnologia da Informação
 
-📈 Sempre procurando aprender algo novo
+💻 Interessado em Desenvolvimento Web e Banco de Dados
 
+📚 Atualmente aprendendo HTML, CSS e SQL
+
+🎯 Em busca de crescimento acadêmico e profissional na área de tecnologia
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=80&section=header&text=🛠️%20Habilidades&fontSize=30&fontColor=ffffff"/>
+
+<div align="center">
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:11998E,100:38EF7D&height=80&section=header&text=📖%20Atualmente%20Estudando&fontSize=30&fontColor=ffffff"/>
+
+- Desenvolvimento Web
+- Banco de Dados
+- GitHub
+- Lógica de Programação
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F7971E,100:FFD200&height=80&section=header&text=🎯%20Objetivo&fontSize=30&fontColor=ffffff"/>
+
+Ampliar meus conhecimentos na área de tecnologia, desenvolver novas habilidades e me preparar para futuras oportunidades acadêmicas e profissionais.
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FC466B,100:3F5EFB&height=80&section=header&text=📊%20GitHub&fontSize=30&fontColor=ffffff"/>
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jvnoxzin&show_icons=true&theme=tokyonight)
+
+</div>
+
+---
+
+<p align="center">
+⭐ Obrigado por visitar meu perfil! ⭐
+</p>
 ---
 
 ## 🛠️ Tecnologias
