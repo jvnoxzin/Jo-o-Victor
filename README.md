@@ -51,17 +51,6 @@
 
 Ampliar meus conhecimentos na área de tecnologia, desenvolver novas habilidades e me preparar para futuras oportunidades acadêmicas e profissionais.
 
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FC466B,100:3F5EFB&height=80&section=header&text=📊%20GitHub&fontSize=30&fontColor=ffffff"/>
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jvnoxzin&show_icons=true&theme=tokyonight)
-
-</div>
-
----
 
 <p align="center">
 ⭐ Obrigado por visitar meu perfil! ⭐
